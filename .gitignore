@@ -1,2 +1,8 @@
 packrat/lib*/
 .Rproj.user
+.R*
+!.Rbuildignore
+*.Rproj
+*Spence_turtle_data.Rdata
+man/
+packrat/
