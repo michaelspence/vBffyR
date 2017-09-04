@@ -1,11 +1,13 @@
-Package: vBertalanffyR
+Package: vBffyR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Improving age inputs to the von Bertalanffy Growth Function 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Authors@R: c(person("Michael", "Spence", email = "m.a.spence@sheffield.ac.uk",
+                  role = c("aut")),
+                  person("Anna", "Krystalli", email = "a.krystalli@sheffield.ac.uk",
+                  role = c("aut", "cre")))
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT
 Encoding: UTF-8
 LazyData: true
