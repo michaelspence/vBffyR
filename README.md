@@ -2,7 +2,7 @@
 
 ***
 
-Converting code associated with: Spence M. A. & Turtle J.A [***Making the most of survey data: Incorporating age uncertainty when fitting growth parameters***](http://onlinelibrary.wiley.com/doi/10.1002/ece3.3280/full) to an #rstats package
+Converting code associated with: *Spence M. A. & Turtle J.A* [***Making the most of survey data: Incorporating age uncertainty when fitting growth parameters***](http://onlinelibrary.wiley.com/doi/10.1002/ece3.3280/full) to an #rstats package
 
 
 *** 
