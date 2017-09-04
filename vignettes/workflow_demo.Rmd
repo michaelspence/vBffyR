@@ -1,0 +1,44 @@
+---
+title: "vBffyR demo"
+output: html_notebook
+---
+
+
+```{r}
+library(rstan)
+library(tidyverse)
+library(purrr)
+## Load data
+load("../inst/extdata/Spence_turtle_data.Rdata")
+```
+
+## Herring
+
+### Assign species data to `df`
+```{r}
+df <- her_on
+```
+
+
+```{r, echo = F, eval=FALSE}
+# create metadata sheet shell
+tibble(var_names = names(df), description = "", units = "", var_type = "") %>% write_csv("../inst/extdata/metadata.csv")
+```
+
+
+```{r}
+df <- df %>% as_tibble()
+df
+```
+
+
+```{r}
+list.files("../R", full.names = T) %>% map(source)
+```
+
+```{r}
+
+
+
+```
+
