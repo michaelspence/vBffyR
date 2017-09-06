@@ -1,7 +1,7 @@
 var_names,description,units,var_type
 Survey,,,
-Year,,,
-Quarter,,,
+Year,Which year did the survey take place in?,,
+Quarter,Which quarter did the survey take place in?,,
 Area,,,
 AphiaID,,,
 Species,,,
